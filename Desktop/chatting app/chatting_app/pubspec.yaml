@@ -1,0 +1,16 @@
+name: chatting_app
+description: A new Flutter project.
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  firebase_core: ^4.4.0
+  firebase_auth: ^6.1.4
+  cloud_firestore: ^6.1.2
+  screens: ^2.5.0
+  firebase_dart: ^1.6.0
